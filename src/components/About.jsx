@@ -19,45 +19,45 @@ function About() {
 
         {/* Table Start */}
 
-        <table class="table-auto w-full border-collapse border border-gray-300 mt-4">
+        <table className="table-auto w-full border-collapse border border-gray-300 mt-4">
           <thead>
-            <tr class="bg-gray-200">
-              <th class="border border-gray-300 px-4 py-2 text-left">Degree</th>
-              <th class="border border-gray-300 px-4 py-2 text-left">
+            <tr className="bg-gray-200">
+              <th className="border border-gray-300 px-4 py-2 text-left">Degree</th>
+              <th className="border border-gray-300 px-4 py-2 text-left">
                 School & University
               </th>
-              <th class="border border-gray-300 px-4 py-2 text-left">
+              <th className="border border-gray-300 px-4 py-2 text-left">
                 Passout Year
               </th>
-              <th class="border border-gray-300 px-4 py-2 text-left">GPA</th>
+              <th className="border border-gray-300 px-4 py-2 text-left">GPA</th>
             </tr>
           </thead>
           <tbody>
-            <tr class="hover:bg-gray-100">
-              <td class="border border-gray-300 px-4 py-2">SEE</td>
-              <td class="border border-gray-300 px-4 py-2">
+            <tr className="hover:bg-gray-100">
+              <td className="border border-gray-300 px-4 py-2">SEE</td>
+              <td className="border border-gray-300 px-4 py-2">
                 Shree Janta Secondary High School
               </td>
-              <td class="border border-gray-300 px-4 py-2">2074</td>
-              <td class="border border-gray-300 px-4 py-2">2.20</td>
+              <td className="border border-gray-300 px-4 py-2">2074</td>
+              <td className="border border-gray-300 px-4 py-2">2.20</td>
             </tr>
-            <tr class="hover:bg-gray-100">
-              <td class="border border-gray-300 px-4 py-2">+2</td>
-              <td class="border border-gray-300 px-4 py-2">
+            <tr className="hover:bg-gray-100">
+              <td className="border border-gray-300 px-4 py-2">+2</td>
+              <td className="border border-gray-300 px-4 py-2">
                 Sagarmatha Secondary Boarding School
               </td>
-              <td class="border border-gray-300 px-4 py-2">2076</td>
-              <td class="border border-gray-300 px-4 py-2">2.24</td>
+              <td className="border border-gray-300 px-4 py-2">2076</td>
+              <td className="border border-gray-300 px-4 py-2">2.24</td>
             </tr>
-            <tr class="hover:bg-gray-100">
-              <td class="border border-gray-300 px-4 py-2">
+            <tr className="hover:bg-gray-100">
+              <td className="border border-gray-300 px-4 py-2">
                 BCA (Bachelor in Computer Application)
               </td>
-              <td class="border border-gray-300 px-4 py-2">
+              <td className="border border-gray-300 px-4 py-2">
                 Birat Kshitiz College
               </td>
-              <td class="border border-gray-300 px-4 py-2">Running</td>
-              <td class="border border-gray-300 px-4 py-2">-</td>
+              <td className="border border-gray-300 px-4 py-2">Running</td>
+              <td className="border border-gray-300 px-4 py-2">-</td>
             </tr>
           </tbody>
         </table>
